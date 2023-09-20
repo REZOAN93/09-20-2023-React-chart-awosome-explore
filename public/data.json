@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Basic Membership",
+    "price": "30",
+    "features": [
+      "Access to cardio equipment",
+      "Use of free weights",
+      "Access to group fitness classes"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Premium Membership",
+    "price": "50",
+    "features": [
+      "All Basic Membership features",
+      "Access to premium equipment",
+      "Personalized workout plans",
+      "Nutritional counseling"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "VIP Membership",
+    "price": "80",
+    "features": [
+      "All Premium Membership features",
+      "24/7 gym access",
+      "Priority class reservations",
+      "Sauna and spa access"
+    ]
+  }
+]
